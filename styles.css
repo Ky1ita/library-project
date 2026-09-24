@@ -365,6 +365,12 @@ button:active {
   color: aliceblue;
 }
 
+.book__price--normal2 {
+  text-decoration: line-through;
+  padding-right: 6px;
+  color: aliceblue;
+}
+
 /* EXPLORE */
 
 #explore {
